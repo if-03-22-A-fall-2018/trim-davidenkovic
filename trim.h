@@ -16,6 +16,6 @@
 
 #define STRLEN 16
 
- void trim(const char* source,  char* trimed_string );
+ void trim(char* string,  char* trimed_string );
 
 #endif
