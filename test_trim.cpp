@@ -31,7 +31,7 @@ TEST(empty_substring)
 }
 
 /******************************************************************************
- * total_string: describe yourself.
+ * total_string: str and trimmed should have the same value
  *
  *
  ******************************************************************************/
@@ -45,7 +45,7 @@ TEST(total_string)
 }
 
 /******************************************************************************
- * leading_blanks: describe yourself.
+ * leading_blanks: str and trimmed should have the same value
  *
  *
  ******************************************************************************/
@@ -59,7 +59,7 @@ TEST(leading_blanks)
 }
 
 /******************************************************************************
- * trailing_blanks: describe yourself.
+ * trailing_blanks: str and trimmed should have the same value
  *
  *
  ******************************************************************************/
@@ -73,7 +73,7 @@ TEST(trailing_blanks)
 }
 
 /******************************************************************************
- * leading_and_trailing_blanks: describe yourself.
+ * leading_and_trailing_blanks: str and trimmed should have the same value
  *
  *
  ******************************************************************************/
